@@ -1,7 +1,7 @@
 # Project template
 - layout: left
   name: OpenShift CoreOS
-  github: https://github.com/openshift/os
+  github: openshift/os
   quote: >
     Red Hat OpenShift Container Platform
   description: |
@@ -10,7 +10,7 @@
 - layout: l
 - layout: left
   name: Infinimesh-Operator
-  github: https://github.com/InfiniteDevices/operator
+  github: InfiniteDevices/operator
   quote: >
     Kubernetes Operator - Automating the Container Orchestration Platform
   description: |
@@ -18,7 +18,7 @@
 
 - layout: left
   name: Infinimesh
-  github: https://github.com/InfiniteDevices/infinimesh
+  github: InfiniteDevices/infinimesh
   quote: >
     Application Developed in Golang
   description: |
