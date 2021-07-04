@@ -1,7 +1,7 @@
 # Project template
 - layout: left
   name: OpenShift CoreOS
-  github: openshift/os
+  github: openshift
   quote: >
     Red Hat OpenShift Container Platform
   description: |
