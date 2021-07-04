@@ -1,0 +1,81 @@
+# Project template
+- layout: left
+  name: OpenShift CoreOS
+  github: https://github.com/openshift/os
+  quote: >
+    Red Hat OpenShift Container Platform
+  description: |
+    Red Hat OpenShift Container Platform is an enterprise-grade Kubernetes container platform that automates operations across the stack to make it even easier to manage hybrid and multi-clouds. It enables faster application deployment and increases developer productivity. Automate lifecycle management for more security, customized and easy-to-use cluster operations, and portable applications.
+   
+- layout: l
+- layout: left
+  name: Infinimesh-Operator
+  github: https://github.com/InfiniteDevices/operator
+  quote: >
+    Kubernetes Operator - Automating the Container Orchestration Platform
+  description: |
+    An Operator extends Kubernetes to automate the management of the entire lifecycle of a particular application. Operators serve as a packaging mechanism for distribut‐ ing applications on Kubernetes, and they monitor, maintain, recover, and upgrade the software they deploy.
+
+- layout: left
+  name: Infinimesh
+  github: https://github.com/InfiniteDevices/infinimesh
+  quote: >
+    Application Developed in Golang
+  description: |
+    Infinimesh is an opinionated multi-tenant hyperscale Platform to connect IoT devices securely. It features a unique Graph-based authorization system, allowing users & engineers to create arbitrary hierarchical ontologies, with the possibility to scope permissions down to single sub-devices to specific users (e.g. suppliers). It exposes simple to consume RESTful & gRPC APIs with both high-level (e.g. device shadow) and low-level (sending messages) concepts. Infinimesh Platform is open source and fully kubernetes compliant. No vendor lock-in - run it yourself on Kubernetes in your own datacenter, under your control with maximum data privacy.
+
+- layout: left
+  name: Securiti.ai (privaci.ai)
+  link: https://securiti.ai
+  quote: >
+    Research and Development on Privacy Ratings module.
+  description: |
+    The AI-Powered PrivacyOps platform is a full-stack solution that operationalizes and simplifies privacy compliance using robotic automation and a natural language interface. These include:
+    Personal Data Finder and Owner Identifier,
+    Data Request Fulfillment Automator,
+    Secure Data Request Portal,
+    Consent Lifecycle Manager,
+    Third-Party Privacy Assessment,
+    Third-Party Privacy Ratings, &
+    Privacy Assessment Automation.
+    For more information, please visit www.privaci.ai
+     
+- layout: left
+  name: Autotask
+  quote: >
+    Meetings Management System in Ruby on Rails while working at Attribes solutions.
+- layout: left
+  name: Chefaholic 
+  link: https://chefaholic.herokuapp.com/
+  quote: >
+    Online Chef Hiring platform
+  description: |
+    Final Year Project (Web Application in Ruby on Rails)
+    [Testing Credentials: email: ayesha@example.com, password: 12345678]
+    
+- layout: left
+  name: Chat Application
+  github: ayesha54/Chat-application
+  quote: >
+    Web Chat Application example using Golang and Vue.js.
+
+- layout: left
+  name: Personal Practices
+  github: ayesha54?tab=repositories
+  quote: >
+    Simple examples for Docker and Kubernetes, Golang
+  description: |
+    Dockerizing Ruby on Rails Application, Dockerize and Deploye Golang Application, Deploye Guestbook Application Kubernetes example, Configmaps of Kubernetes example Deploye voting application through Kubernetes & Golang microservices.
+ 
+
+- layout: left
+  name: DigitalTech
+  github: ayesha54/DigitalTech
+  quote: >
+    Simple Blog in PHP Laravel to post articles
+
+- layout: left
+  name: EZSaman
+  quote: >
+    Android Application, Startup named EZSaman an Online Delivering Service
+  

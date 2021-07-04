@@ -1,0 +1,6 @@
+<div class="container activities-container">
+  <h3>{{ site.activities_title | default: "Participations and Self Learning" }}</h3>
+  {% for activities in site.data.activities %}
+    {% include {{ activities.layout | default: 'left' | append: ".html" }} item=activities %}
+  {% endfor %}
+</div>

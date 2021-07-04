@@ -1,0 +1,81 @@
+# Experience template
+- layout: left
+  company: Red Hat OpenShift CoreOS
+  link: https://www.openshift.com/learn/coreos/
+  job_title: Software Engineer - OpenShift Core Engineering
+  dates: June 2020 - present
+  quote: >
+   Red Hat OpenShift Container Platform is an enterprise-grade Kubernetes container platform that automates operations across the stack to make it even easier to manage hybrid and multi-clouds. It enables faster application deployment and increases developer productivity. Automate lifecycle management for more security, customized and easy-to-use cluster operations, and portable applications.
+   
+- layout: left
+  company: Infinite Devices GmbH
+  link: https://infinitedevices.de/
+  job_title: Backend/DevOps Software Engineer
+  dates: Nov 2020 - June 2021
+  quote: >
+   Infinite Devices is a German start-up that strives to revolutionize the IoT market. Our infinimesh IoT platform creates the backbone for the communication of millions of IoT devices. 
+   infinimesh is unique in that it provides fast, highly-scalable, and secure connectivity and handles the data processing for IoT fleets and spheres of any size at low costs. Hosted in Germany, infinimesh fully complies with the GDPR requirements. 
+  description: | # this will include new lines to allow paragraphs
+    ▪ Implement and improve monitoring and alerting.
+
+    ▪ Build and maintain highly available systems on Kubernetes.
+
+    ▪ Implement and manage CI/CD pipelines.
+
+    ▪ Implement an auto-scaling system for our Kubernetes nodes.
+
+    ▪ Participate in on-call rotations.
+
+    ▪ Developing Application and fix issues in Golang.
+
+- layout: left
+  company: Securiti.ai
+  link: https://www.securiti.ai
+  job_title: Software Development Engineer
+  dates: Feb 2019 - Nov 20202
+  quote: >
+   SECURITI.ai is an innovator of AI-Powered cybersecurity and data protection solutions. Its product-suite, PRIVACI.ai is the world’s first PrivacyOps platform that helps automate all major functions needed for privacy compliance in one place. It enables enterprises to give rights to people on their data, be responsible custodians of people’s data, comply with global privacy regulations and bolster their brands.
+   For more information, please visit www.privaci.ai
+  description: | # this will include new lines to allow paragraphs
+    ▪ Developing/Managing Python Microservices and Middlewares.
+
+    ▪ Research and analysis of cybersecurity regulatory compliances and frameworks.
+
+    ▪ Bash Scripting and expertise on tools like Dockers etc.
+
+- layout: left
+  company: Upwork
+  link: https://www.upwork.com/freelancers/~0192e3f4fbdeeb1461?viewMode=1
+  job_title: Backend/DevOps Software Engineer
+  dates: 2019 - 2020
+  quote: >
+    Worked with many international clients remotely.
+  description: | # this will include new lines to allow paragraphs
+   Worked as a Backend Engineer and a DevOps Expert.
+
+    ▪ Deployment of applications on the cloud.
+
+    ▪ Manage applications on Docker and Kubernetes.
+
+    ▪ Development of applications with Golang.
+
+    ▪ Worked with other programming languages as well such as Python and Perl.  
+- layout: left
+  company: Attribes Solutions
+  link: https://attribes.com/
+  job_title: Ruby on Rails Developer
+  dates: Dec 2018 - Jan 2019
+  quote: >
+   Attribes Solutions is Software Services Providers
+  description: | # this will include new lines to allow paragraphs
+    Responsible for formulating solutions, designing and developing highly distributed Ruby on Rails web applications for In-house products as well as different client-based products.
+
+- layout: left
+  company: Fiverr
+  link: https://www.fiverr.com/arcane510
+  job_title: Freelancer
+  dates: July 2017 - Dec 2018
+  quote: >
+   Web Design and Development
+  description: | # this will include new lines to allow paragraphs
+    Provides Web Design and Development services in Ruby on Rails, HTML, CSS, Bootstrap, Javascript, PHP, Mysql.

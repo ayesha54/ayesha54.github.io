@@ -1,0 +1,85 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Ayesha Kaleem
+title: Software Engineer - OpenShift Core Engineering
+email: akaleem306@gmail.com
+darkmode: false
+
+# Social links
+twitter_username: Ayesha546
+github_username: ayesha54
+stackoverflow_username: "4784745"
+linkedin_username: ayesha-kaleem-015187b0
+xing_username: ayesha_kaleem
+
+# Additional icon links
+additional_links:
+  - title: Medium
+    icon: fa-medium
+    url: https://medium.com/@akaleem306
+  - title: Hackerrank
+    icon: fa-hackerrank
+    url: https://www.hackerrank.com/akaleem306
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  As a Software Engineer working at Red Hat, I am focused on Open Source software development. I have spent last few years working as a Backend Engineer with a DevOps mindset with cloud and container technologies. This gave me the opportunity to learn a lot and work with exciting new technologies. I am absolutely passionate about anything system related and especially Kubernetes, for better or worse! I have also developed a strong interest in Go and I am currently using it in several projects.
+  I believe in constant learning and improving my self as an Engineer and a human being.
+  Apart from that, I love to read, travel and spend time in nature with the people I care about.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Apart from professional information, I have been involved in so many volunteering activities during my student life. I also love to play batminton (although I am still learning it) and want to learn swimming. Also, learn to speak German and getting a driving License are my ultmate goals in 2021.
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
+  ]
+
+theme: jekyll-theme-cayman

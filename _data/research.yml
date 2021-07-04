@@ -1,0 +1,9 @@
+- layout: left
+  company: Academic Research
+  link: https://i.ibb.co/ygh4Jr4/scan0009-page-001.jpg
+  job_title: Process of Image Colorization Using Convolutional Neural Network
+  dates: Oct 2018
+  quote: >
+   Abstract
+  description: | # this will include new lines to allow paragraphs
+   This research paper is based on the multiple method of image colorization. Among the image recognition and object detection algorithms, the mechanism based on deep neural networks shows the unrivaled performance. Still the problem of image colorization methods depends heavily on human interaction. Unlike other existing proposed method which are based on machine learning or generic image descriptor that degrades the recognition rate of image and also to avoid the usage of large database. Our proposed model is an assortment based on algorithms of structure, objects, and functions, the preprocessing and post processing image colorization. System consists of training and testing phases. Feature abstraction and pixel-mapping from the input colored image results in the training of the system. 
