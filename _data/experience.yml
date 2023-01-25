@@ -6,6 +6,20 @@
   dates: June 2021 - present
   quote: >
    Red Hat OpenShift Container Platform is an enterprise-grade Kubernetes container platform that automates operations across the stack to make it even easier to manage hybrid and multi-clouds. It enables faster application deployment and increases developer productivity. Automate lifecycle management for more security, customized and easy-to-use cluster operations, and portable applications.
+  description: | # this will include new lines to allow paragraphs
+    ▪ Developing Openshift/Kubernetes Operators in Golang.
+
+    ▪ Working with the Core Openshift Engineering team to add features and resolve bugs in the Openshift Installer and other Openshift repositories using Golang.
+    
+    ▪ Build and maintain highly available systems on Kubernetes.
+
+    ▪ Implement and manage CI/CD pipelines.
+
+    ▪ Implement and improve monitoring and alerting.
+
+    ▪ Building and managing Openshift clusters on Vmware Vsphere.
+
+    ▪ Developing python notebooks for monitoring the data.
 
 - layout: left
   company: Infinite Devices GmbH
@@ -27,6 +41,8 @@
     ▪ Participate in on-call rotations.
 
     ▪ Developing Application and fix issues in Golang.
+
+    ▪ Developing/Managing Microservices and Middlewares in Golang.
 
 - layout: left
   company: Securiti.ai
@@ -59,7 +75,9 @@
 
     ▪ Development of applications with Golang.
 
-    ▪ Worked with other programming languages as well such as Python and Perl.  
+    ▪ Worked with other programming languages as well such as Python and Perl. 
+
+    ▪ Development of web applications.
 - layout: left
   company: Attribes Solutions
   link: https://attribes.com/
@@ -69,13 +87,3 @@
    Attribes Solutions is Software Services Providers
   description: | # this will include new lines to allow paragraphs
     Responsible for formulating solutions, designing and developing highly distributed Ruby on Rails web applications for In-house products as well as different client-based products.
-
-- layout: left
-  company: Fiverr
-  link: https://www.fiverr.com/arcane510
-  job_title: Freelancer
-  dates: July 2017 - Dec 2018
-  quote: >
-   Web Design and Development
-  description: | # this will include new lines to allow paragraphs
-    Provides Web Design and Development services in Ruby on Rails, HTML, CSS, Bootstrap, Javascript, PHP, Mysql.

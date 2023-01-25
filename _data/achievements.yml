@@ -1,27 +1,7 @@
 - layout: left
-  name: Python
-  dates: Feb 2020
-  link: https://www.hackerrank.com/akaleem306
-  quote: >
-    Gold Badge Python - Hackerrank
-  # this will include new lines to allow paragraphs
-- layout: left
-  name: Problem Solving
-  dates: Feb 2020
-  link: https://www.hackerrank.com/akaleem306
-  quote: >
-    Silver Badge Python - Hackerrank
-  # this will include new lines to allow paragraphs
-- layout: left
   name: Won First Prize
   dates: Feb 2017
   link: https://i.ibb.co/r6hLRZd/scan0003-page-001.jpg
   quote: >
     Web Development Competition at Developers Day FAST NUCES 2017
-  # this will include new lines to allow paragraphs
-- layout: left
-  name: Scholarship
-  dates: July 2018 - August 2018
-  quote: >
-    Bertelsmann Data Science Challenge Scholarship Online Course on Udacity
   # this will include new lines to allow paragraphs
